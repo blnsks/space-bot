@@ -1,1 +1,1 @@
-worker: python space_bot_1.py
+worker: python space_bot.py
